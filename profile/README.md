@@ -1,6 +1,6 @@
 # Eden Language
 
-![Eden Language](/Assets/EdenLogo.png)
+<!-- ![Eden Language](/Assets/EdenLogo.png) -->
 
 🌱 **Welcome to the Eden Language GitHub organization!**  
 This space is dedicated to the development and maintenance of the Eden programming language and its related tools.
