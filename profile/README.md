@@ -1,12 +1,21 @@
-## Hi there 👋
+# Eden Language
 
-<!--
+![Eden Language](/Assets/EdenLogo.png)
 
-**Here are some ideas to get you started:**
+🌱 **Welcome to the Eden Language GitHub organization!**  
+This space is dedicated to the development and maintenance of the Eden programming language and its related tools.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Overview
+
+💡 **Eden Language** is a custom programming language created for fun, as a personal project to learn more about parsers, compilers, and language design. The organization hosts various projects related to Eden, including the language's core implementation and integrations with popular development environments.
+
+## Latest Releases
+
+📦 **[Eden - Latest Release](https://github.com/eden-language/eden/releases/latest)**  
+📦 **[Eden VS Code Extension - Latest Release](https://github.com/eden-language/eden-vscode/releases/latest)**
+
+## Contributing
+
+While I don’t plan on collaborating with others on this project, if you're interested in contributing or collaborating, feel free to send me a DM on Discord. We can discuss it and see how we can work something out!
+
+> **Note:** All images in this repository were generated with AI.
