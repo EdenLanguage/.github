@@ -2,12 +2,12 @@
 
 <!-- ![Eden Language](/Assets/EdenLogo.png) -->
 
-🌱 **Welcome to the Eden Language GitHub organization!**  
+**Welcome to the Eden Language GitHub organization!**  
 This space is dedicated to the development and maintenance of the Eden programming language and its related tools.
 
 ## Overview
 
-💡 **Eden Language** is a custom programming language created for fun, as a personal project to learn more about parsers, compilers, and language design. The organization hosts various projects related to Eden, including the language's core implementation and integrations with popular development environments.
+**Eden Language** is a custom programming language created for fun, as a personal project to learn more about parsers, compilers, and language design. The organization hosts various projects related to Eden, including the language's core implementation.
 
 ## Latest Releases
 
