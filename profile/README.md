@@ -11,8 +11,8 @@ This space is dedicated to the development and maintenance of the Eden programmi
 
 ## Latest Releases
 
-📦 **[Eden - Latest Release](https://github.com/eden-language/eden/releases/latest)**  
-📦 **[Eden VS Code Extension - Latest Release](https://github.com/eden-language/eden-vscode/releases/latest)**
+📦 **[Eden - Latest Release](https://github.com/EdenLanguage/Eden/releases)**  
+📦 **[Eden VS Code Extension - Latest Release](https://github.com/EdenLanguage/Eden-vs-code-extension/releases)**
 
 ## Contributing
 
