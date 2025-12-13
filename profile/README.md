@@ -1,21 +1,25 @@
-# Eden Language
+# Eden
 
-<!-- ![Eden Language](/Assets/EdenLogo.png) -->
+This language was built completely from scratch, not to chase performance or complexity, but to understand how programming languages actually work. Every part of Eden was written by hand with care, keeping things clear and approachable. The goal has always been simplicity: when things are easy to read and follow, they’re easier to learn from too.
 
-**Welcome to the Eden Language GitHub organization!**  
-This space is dedicated to the development and maintenance of the Eden programming language and its related tools.
+## Repositories 
+<div align="left">
+      <a href="https://github.com/EdenLanguage/Eden">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdenLanguage&repo=Eden&theme=transparent" alt="Eden" />
+      </a>
+      <a href="https://github.com/EdenLanguage/Eden-vs-code-extension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdenLanguage&repo=Eden-vs-code-extension&theme=transparent" alt="Visual Studio Code Extension" />
+      </a>
+</div>
 
-## Overview
+## Examples 
+<div align="left">
+      <a href="https://github.com/EdenLanguage/SpinningDonut">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdenLanguage&repo=SpinningDonut&theme=transparent" alt="SpinningDonut" />
+      </a>
+</div>
 
-**Eden Language** is a custom programming language created for fun, as a personal project to learn more about parsers, compilers, and language design. The organization hosts various projects related to Eden, including the language's core implementation.
+## Download 👇
 
-## Latest Releases
-
-📦 **[Eden - Latest Release](https://github.com/EdenLanguage/Eden/releases)**  
-📦 **[Eden VS Code Extension - Latest Release](https://github.com/EdenLanguage/Eden-vs-code-extension/releases)**
-
-## Contributing
-
-While I don’t plan on collaborating with others on this project, if you're interested in contributing or collaborating, feel free to send me a DM on Discord. We can discuss it and see how we can work something out!
-
-> **Note:** All images in this repository were generated with AI.
+📦 **[Eden - Interpreter](https://github.com/EdenLanguage/Eden/releases)**  
+📦 **[Eden - VS Core Extension](https://github.com/EdenLanguage/Eden-vs-code-extension/releases)**
